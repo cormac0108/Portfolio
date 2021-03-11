@@ -1,0 +1,6 @@
+.btn-lg {
+    flex: flex-wrap;
+    background-color: rgb(235, 148, 148);
+    text-align: center;
+    justify-content: center;
+}
